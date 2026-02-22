@@ -1,1 +1,2 @@
-#это моя ветка здесь
+def van(hesus):
+    return hesus
