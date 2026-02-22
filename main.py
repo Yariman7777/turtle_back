@@ -1,2 +1,1 @@
-def p(petuh):
-    print('arman')
+iii
